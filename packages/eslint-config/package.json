@@ -1,5 +1,5 @@
 {
-  "name": "@ltpdesignsystem/eslint-config",
+  "name": "@ltpds/eslint-config",
   "version": "1.0.0",
   "license": "ISC",
   "private": true,

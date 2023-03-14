@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep, MultiStepProps } from '@ltpdesignsystem/react'
+import { Box, MultiStep, MultiStepProps } from '@ltpds/react'
 
 export default {
   title: 'Form/MultiStep',

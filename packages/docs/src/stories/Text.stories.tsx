@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@ltpdesignsystem/react'
+import { Text, TextProps } from '@ltpds/react'
 
 export default {
   title: 'Typography/Text',

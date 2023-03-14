@@ -1,6 +1,6 @@
 {
-  "name": "@ltpdesignsystem/tokens",
-  "version": "1.1.0",
+  "name": "@ltpds/tokens",
+  "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ltpdesignsystem/ts-config": "*",
-    "@ltpdesignsystem/eslint-config": "*",
+    "@ltpds/ts-config": "*",
+    "@ltpds/eslint-config": "*",
     "tsup": "^6.6.3",
     "typescript": "^4.9.5"
   }

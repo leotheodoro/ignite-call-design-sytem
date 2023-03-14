@@ -1,4 +1,4 @@
 {
-  "extends": "@ltpdesignsystem/ts-config/react.json",
+  "extends": "@ltpds/ts-config/react.json",
   "include": ["src"],
 }

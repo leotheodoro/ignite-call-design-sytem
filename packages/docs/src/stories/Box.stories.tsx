@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@ltpdesignsystem/react'
+import { Box, BoxProps } from '@ltpds/react'
 
 export default {
   title: 'Surfaces/Box',
