@@ -1,5 +1,5 @@
 {
-  "name": "@igniteui/docs",
+  "name": "@ltpdesignsytem/docs",
   "version": "1.0.0",
   "description": "",
   "main": "vite.config.js",
@@ -27,10 +27,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@igniteui/eslint-config": "*",
-    "@igniteui/react": "*",
-    "@igniteui/tokens": "*",
-    "@igniteui/ts-config": "*",
+    "@ltpdesignsytem/eslint-config": "*",
+    "@ltpdesignsytem/react": "*",
+    "@ltpdesignsytem/tokens": "*",
+    "@ltpdesignsytem/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@igniteui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@ltpdesignsytem/react'
 
 export default {
   title: 'Form/Text Area',

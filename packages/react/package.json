@@ -1,6 +1,6 @@
 {
-  "name": "@igniteui/react",
-  "version": "1.0.0",
+  "name": "@ltpdesignsytem/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@igniteui/eslint-config": "*",
-    "@igniteui/tokens": "*",
-    "@igniteui/ts-config": "*",
+    "@ltpdesignsytem/eslint-config": "*",
+    "@ltpdesignsytem/tokens": "*",
+    "@ltpdesignsytem/ts-config": "*",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
