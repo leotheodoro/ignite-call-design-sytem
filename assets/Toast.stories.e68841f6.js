@@ -1,0 +1,2 @@
+import{d as t}from"./index.c7c72ea4.js";import"./index.4fb7ec0c.js";import"./iframe.c9089119.js";import"./index.35126952.js";import"./jsx-runtime.e879ff45.js";const m={title:"Components/Toast",component:t,args:{title:"Agendamento realizado",date:new Date},argTypes:{date:{control:"date"}}},n={},i=["Primary"];export{n as Primary,i as __namedExportsOrder,m as default};
+//# sourceMappingURL=Toast.stories.e68841f6.js.map
