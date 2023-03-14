@@ -1,20 +1,16 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@ltpds/react'
+import { Text, Box, BoxProps } from '@ltpds/react'
 
 export default {
   title: 'Surfaces/Box',
   component: Box,
   args: {
-    children: (
-      <>
-        <span>Testando o elemento Box</span>
-      </>
-    ),
+    children: <Text>Testando o elemento Box</Text>,
   },
   argTypes: {
     children: {
-      control: {
-        type: null,
+      table: {
+        disable: true,
       },
     },
   },
