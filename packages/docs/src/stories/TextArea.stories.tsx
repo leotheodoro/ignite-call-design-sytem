@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@ltpdesignsytem/react'
+import { Box, Text, TextArea, TextAreaProps } from '@ltpdesignsystem/react'
 
 export default {
   title: 'Form/Text Area',

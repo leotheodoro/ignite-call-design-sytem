@@ -1,4 +1,4 @@
 {
-  "extends": "@ltpdesignsytem/ts-config/base.json",
+  "extends": "@ltpdesignsystem/ts-config/base.json",
   "include": ["src"],
 }

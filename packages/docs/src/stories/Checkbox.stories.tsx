@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@ltpdesignsytem/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@ltpdesignsystem/react'
 
 export default {
   title: 'Form/Checkbox',

@@ -1,4 +1,4 @@
-import { colors } from '@ltpdesignsytem/tokens'
+import { colors } from '@ltpdesignsystem/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

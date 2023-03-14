@@ -1,4 +1,4 @@
-# @ltpdesignsytem/react
+# @ltpdesignsystem/react
 
 ## 2.0.0
 
